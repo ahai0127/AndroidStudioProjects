@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SPI cube</string>
+    <string name="action_settings">Settings</string>
+    <string name="some_sampe_data"><![CDATA[
+Getting started, the easy way
+
+connect terminal to pin 11 and 13 on LS connector
+(115200 no parity 8 bits 1 stop bit)
+
+run starter script as root
+
+su
+cd /data/data/jp.co.dds.spicube
+./runme.sh
+
+        ]]>
+    </string>
+    <string name="todo">TODO</string>
+    <string name="textview">Sensor View</string>
+</resources>

@@ -1,0 +1,4 @@
+#Tue Sep 10 13:41:05 CST 2019
+base.0=/home/xiaohai/AndroidStudioProjects/nobunaga_SPICube/nobunaga_SPICube/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

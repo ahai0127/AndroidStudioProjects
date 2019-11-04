@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/xiaohai/AndroidStudioProjects/nobunaga_SPICube/nobunaga_SPICube/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/xiaohai/.gradle/caches/transforms-2/files-2.1/8d3f28d776577108bc94e20ec8e3df3f/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "431"
+                    }
+                },
+                {
+                    "source": "/home/xiaohai/.gradle/caches/transforms-2/files-2.1/375f00ad0dcdb2430943ee93736f5d17/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

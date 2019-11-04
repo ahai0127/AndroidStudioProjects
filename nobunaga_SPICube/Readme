@@ -1,0 +1,3 @@
+start with adb shell
+
+am start -n jp.co.dds.spicube/jp.co.dds.spicube.MainActivity
